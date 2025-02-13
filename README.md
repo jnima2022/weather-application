@@ -5,9 +5,9 @@ A simple weather application built with React.js that allows users to check the 
 ## Features
 
 - **Current Weather**: Displays the current temperature, humidity, wind speed, and weather conditions.
-- **Weather Icons: Display corresponding weather icons for each condition.
+- **Weather Icons**: Display corresponding weather icons for each condition.
 - **5-Day Forecast**: Provides a 5-day weather forecast with temperature and weather icons.
-- **Geolocation: Automatically fetch weather based on the user's location if the city is left empty.
+- **Geolocation**: Automatically fetch weather based on the user's location if the city is left empty.
 - **Temperature Unit Toggle**: Switch between Celsius and Fahrenheit for temperature display.
 - **Responsive Design**: Works well on desktop and mobile devices.
 
